@@ -1,0 +1,5 @@
+Bounding Box 0: (109, 736, 397, 1090)
+Detected text: NRW DE 05 431 03 90
+Best match from I&R dataset: DE0543103904\Best match could not be foundBounding Box 1: (1417, 873, 1535, 1200)
+Detected text: 03
+Best match from I&R dataset: nan\Best match could not be found

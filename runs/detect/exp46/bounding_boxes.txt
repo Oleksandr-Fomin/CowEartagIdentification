@@ -1,0 +1,3 @@
+Bounding Box 0: (183, 356, 509, 797)
+Detected text: DE 01254 87185 NL AA
+Best match from I&R dataset: DE0125487185

@@ -1,0 +1,6 @@
+ear_tag 0.26 (Confidence: 0.984425083439619)
+ear (Confidence: 0.9983876612482423)
+ear_tag 0.33 (Confidence: 0.9885790577755413)
+01,252 (Confidence: 0.5450978553537144)
+DE (Confidence: 0.6157074283736448)
+L75 (Confidence: 0.8685787231356928)

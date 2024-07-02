@@ -1,0 +1,6 @@
+Bounding Box 0: (357, 741, 534, 970)
+Detected text: 01 253 DE 60 475
+Best match from I&R dataset: DE0125360475
+Bounding Box 1: (1068, 722, 1230, 923)
+Detected text: DE 01 60 475 253
+Best match from I&R dataset: DE0125360475
